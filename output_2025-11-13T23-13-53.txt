@@ -1,0 +1,1157 @@
+[![revolte logo](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2dfa4_revolte%20logo.png)](https://revolte.ai/)![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68bfc1e30aa61c9168a985c9_Service%20-%20Product%20Engineering%20(1).svg)
+
+[Pricing](https://revolte.ai/pricing) [Documentation](https://docs.revolte.ai/) [Blog](https://blog.revolte.ai/) [Contact](https://revolte.ai/contact)
+
+# Simple,  Transparent Pricing
+
+Choose a plan that scales with you - no hidden fees, just seamless efficiency.
+
+[Monthly](https://revolte.ai/pricing#w-tabs-0-data-w-pane-0) [Annually\\
+\\
+Save 17%](https://revolte.ai/pricing#w-tabs-0-data-w-pane-1)
+
+![](https://cdn.prod.website-files.com/68b6e15fb02d28684fc9298e/68b6e160b02d28684fc92b0d_F3.png)
+
+Free
+
+$0/MONTH
+
+Ideal for individuals or small teams exploring the platform
+
+[Get Started\\
+\\
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b849afd822cb164a4ebe1f_arrow_right.svg)](https://console.revolte.ai/auth/signup)
+
+Free Includes
+
+![](https://cdn.prod.website-files.com/68b6e15fb02d28684fc9298e/68b6e160b02d28684fc92b09_aerg.png)
+
+1 active member
+
+![](https://cdn.prod.website-files.com/68b6e15fb02d28684fc9298e/68b6e160b02d28684fc92b09_aerg.png)
+
+Provision single environment: Preview, QA, Staging, or Prod
+
+![](https://cdn.prod.website-files.com/68b6e15fb02d28684fc9298e/68b6e160b02d28684fc92b09_aerg.png)
+
+1 Project (ideal for hobby or basic live use)
+
+![](https://cdn.prod.website-files.com/68b6e15fb02d28684fc9298e/68b6e160b02d28684fc92b09_aerg.png)
+
+Launch up to 2 services - choose from Frontend, Backend, or CRON
+
+![](https://cdn.prod.website-files.com/68b6e15fb02d28684fc9298e/68b6e160b02d28684fc92b09_aerg.png)
+
+Free frontend, metered Backend & CRON (pay-as-you-go)
+
+![](https://cdn.prod.website-files.com/68b6e15fb02d28684fc9298e/68b6e160b02d28684fc92b09_aerg.png)
+
+DDoS protection
+
+![](https://cdn.prod.website-files.com/68b6e15fb02d28684fc9298e/68b6e160b02d28684fc92b09_aerg.png)
+
+Get security out of the box
+
+![](https://cdn.prod.website-files.com/68b6e15fb02d28684fc9298e/68b6e160b02d28684fc92b09_aerg.png)
+
+Community, Bot, and Email support
+
+![](https://cdn.prod.website-files.com/68b6e15fb02d28684fc9298e/68b6e160b02d28684fc92a9c_Clip%20path%20group.png)
+
+Team
+
+$39/MONTH
+
+Best for growing teams building and scaling in multiple environments
+
+[Get Started\\
+\\
+![arrow](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b849afd822cb164a4ebe1f_arrow_right.svg)](https://console.revolte.ai/auth/signup)
+
+Team Includes
+
+![](https://cdn.prod.website-files.com/68b6e15fb02d28684fc9298e/68b6e160b02d28684fc92b09_aerg.png)
+
+Unlimited users
+
+![](https://cdn.prod.website-files.com/68b6e15fb02d28684fc9298e/68b6e160b02d28684fc92b09_aerg.png)
+
+5+ environments: 2 Preview, QA, Staging, Prod
+
+![](https://cdn.prod.website-files.com/68b6e15fb02d28684fc9298e/68b6e160b02d28684fc92b09_aerg.png)
+
+Work on up to 5 projects - ideal for scaling teams
+
+![](https://cdn.prod.website-files.com/68b6e15fb02d28684fc9298e/68b6e160b02d28684fc92b09_aerg.png)
+
+Includes all 3 services (Frontend, Backend, CRON) plus 1 addon
+
+![](https://cdn.prod.website-files.com/68b6e15fb02d28684fc9298e/68b6e160b02d28684fc92b09_aerg.png)
+
+All infrastructure usage is metered pay-as-you-go
+
+![](https://cdn.prod.website-files.com/68b6e15fb02d28684fc9298e/68b6e160b02d28684fc92b09_aerg.png)
+
+Advanced DDoS protection
+
+![](https://cdn.prod.website-files.com/68b6e15fb02d28684fc9298e/68b6e160b02d28684fc92b09_aerg.png)
+
+Audit logs retained for 90 days
+
+![](https://cdn.prod.website-files.com/68b6e15fb02d28684fc9298e/68b6e160b02d28684fc92b09_aerg.png)
+
+Dedicated support
+
+![](https://cdn.prod.website-files.com/68b6e15fb02d28684fc9298e/68b6e160b02d28684fc92a96_Frame.png)
+
+Enterprise
+
+Custom
+
+Tailored for large-scale platforms needing robust compliance, performance and support
+
+[Get Started\\
+\\
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b849afd822cb164a4ebe1f_arrow_right.svg)](https://console.revolte.ai/auth/signup)
+
+ENTERPRISE Includes
+
+![](https://cdn.prod.website-files.com/68b6e15fb02d28684fc9298e/68b6e160b02d28684fc92b09_aerg.png)
+
+Unlimited users
+
+![](https://cdn.prod.website-files.com/68b6e15fb02d28684fc9298e/68b6e160b02d28684fc92b09_aerg.png)
+
+Custom unlimited environments
+
+![](https://cdn.prod.website-files.com/68b6e15fb02d28684fc9298e/68b6e160b02d28684fc92b09_aerg.png)
+
+Run unlimited projects - built for scale and flexibility
+
+![](https://cdn.prod.website-files.com/68b6e15fb02d28684fc9298e/68b6e160b02d28684fc92b09_aerg.png)
+
+Unlimited Frontend, Backend, CRON deployments
+
+![](https://cdn.prod.website-files.com/68b6e15fb02d28684fc9298e/68b6e160b02d28684fc92b09_aerg.png)
+
+All infrastructure usage is metered pay-as-you-go
+
+![](https://cdn.prod.website-files.com/68b6e15fb02d28684fc9298e/68b6e160b02d28684fc92b09_aerg.png)
+
+Enterprise-grade DDoS protection
+
+![](https://cdn.prod.website-files.com/68b6e15fb02d28684fc9298e/68b6e160b02d28684fc92b09_aerg.png)
+
+Audit logs retained for 1+ year
+
+![](https://cdn.prod.website-files.com/68b6e15fb02d28684fc9298e/68b6e160b02d28684fc92b09_aerg.png)
+
+Contractual uptime guarantee
+
+![](https://cdn.prod.website-files.com/68b6e15fb02d28684fc9298e/68b6e160b02d28684fc92b09_aerg.png)
+
+Custom SLA
+
+![](https://cdn.prod.website-files.com/68b6e15fb02d28684fc9298e/68b6e160b02d28684fc92b09_aerg.png)
+
+Premium support
+
+![](https://cdn.prod.website-files.com/68b6e15fb02d28684fc9298e/68b6e160b02d28684fc92b0d_F3.png)
+
+Free
+
+$0/YEAR
+
+Ideal for individuals or small teams exploring the platform
+
+[Get Started\\
+\\
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b849afd822cb164a4ebe1f_arrow_right.svg)](https://console.revolte.ai/auth/signup)
+
+Free Includes
+
+![](https://cdn.prod.website-files.com/68b6e15fb02d28684fc9298e/68b6e160b02d28684fc92b09_aerg.png)
+
+1 active member
+
+![](https://cdn.prod.website-files.com/68b6e15fb02d28684fc9298e/68b6e160b02d28684fc92b09_aerg.png)
+
+Provision single environment: Preview, QA, Staging, or Prod
+
+![](https://cdn.prod.website-files.com/68b6e15fb02d28684fc9298e/68b6e160b02d28684fc92b09_aerg.png)
+
+1 Project (ideal for hobby or basic live use)
+
+![](https://cdn.prod.website-files.com/68b6e15fb02d28684fc9298e/68b6e160b02d28684fc92b09_aerg.png)
+
+Launch up to 2 services - choose from Frontend, Backend, or CRON
+
+![](https://cdn.prod.website-files.com/68b6e15fb02d28684fc9298e/68b6e160b02d28684fc92b09_aerg.png)
+
+Customer MFree frontend, metered Backend & CRON (pay-as-you-go)anager
+
+![](https://cdn.prod.website-files.com/68b6e15fb02d28684fc9298e/68b6e160b02d28684fc92b09_aerg.png)
+
+DDoS protection
+
+![](https://cdn.prod.website-files.com/68b6e15fb02d28684fc9298e/68b6e160b02d28684fc92b09_aerg.png)
+
+Get security out of the box
+
+![](https://cdn.prod.website-files.com/68b6e15fb02d28684fc9298e/68b6e160b02d28684fc92b09_aerg.png)
+
+Community, Bot, and Email support
+
+![](https://cdn.prod.website-files.com/68b6e15fb02d28684fc9298e/68b6e160b02d28684fc92a9c_Clip%20path%20group.png)
+
+TEAM
+
+$399/YEAR
+
+Best for growing teams building and scaling in multiple environments
+
+[Get Started\\
+\\
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b849afd822cb164a4ebe1f_arrow_right.svg)](https://console.revolte.ai/auth/signup)
+
+TEAM Includes
+
+![](https://cdn.prod.website-files.com/68b6e15fb02d28684fc9298e/68b6e160b02d28684fc92b09_aerg.png)
+
+Unlimited users
+
+![](https://cdn.prod.website-files.com/68b6e15fb02d28684fc9298e/68b6e160b02d28684fc92b09_aerg.png)
+
+5+ environments: 2 Preview, QA, Staging, Prod
+
+![](https://cdn.prod.website-files.com/68b6e15fb02d28684fc9298e/68b6e160b02d28684fc92b09_aerg.png)
+
+Work on up to 5 projects - ideal for scaling teams
+
+![](https://cdn.prod.website-files.com/68b6e15fb02d28684fc9298e/68b6e160b02d28684fc92b09_aerg.png)
+
+Customer MIncludes all 3 services (Frontend, Backend, CRON) plus 1 addonanager
+
+![](https://cdn.prod.website-files.com/68b6e15fb02d28684fc9298e/68b6e160b02d28684fc92b09_aerg.png)
+
+All infrastructure usage is metered pay-as-you-go
+
+![](https://cdn.prod.website-files.com/68b6e15fb02d28684fc9298e/68b6e160b02d28684fc92b09_aerg.png)
+
+Advanced DDoS protection
+
+![](https://cdn.prod.website-files.com/68b6e15fb02d28684fc9298e/68b6e160b02d28684fc92b09_aerg.png)
+
+Audit logs retained for 90 days
+
+![](https://cdn.prod.website-files.com/68b6e15fb02d28684fc9298e/68b6e160b02d28684fc92b09_aerg.png)
+
+Dedicated support
+
+![](https://cdn.prod.website-files.com/68b6e15fb02d28684fc9298e/68b6e160b02d28684fc92a96_Frame.png)
+
+ENTERPRISE
+
+Custom
+
+Tailored for large-scale platforms needing robust compliance, performance and support
+
+[Get Started\\
+\\
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b849afd822cb164a4ebe1f_arrow_right.svg)](https://console.revolte.ai/auth/signup)
+
+ENTERPRISE Includes
+
+![](https://cdn.prod.website-files.com/68b6e15fb02d28684fc9298e/68b6e160b02d28684fc92b09_aerg.png)
+
+Unlimited users
+
+![](https://cdn.prod.website-files.com/68b6e15fb02d28684fc9298e/68b6e160b02d28684fc92b09_aerg.png)
+
+Custom unlimited environments
+
+![](https://cdn.prod.website-files.com/68b6e15fb02d28684fc9298e/68b6e160b02d28684fc92b09_aerg.png)
+
+Run unlimited projects - built for scale and flexibility
+
+![](https://cdn.prod.website-files.com/68b6e15fb02d28684fc9298e/68b6e160b02d28684fc92b09_aerg.png)
+
+Unlimited Frontend, Backend, CRON deployments
+
+![](https://cdn.prod.website-files.com/68b6e15fb02d28684fc9298e/68b6e160b02d28684fc92b09_aerg.png)
+
+All infrastructure usage is metered pay-as-you-go
+
+![](https://cdn.prod.website-files.com/68b6e15fb02d28684fc9298e/68b6e160b02d28684fc92b09_aerg.png)
+
+Enterprise-grade DDoS protection
+
+![](https://cdn.prod.website-files.com/68b6e15fb02d28684fc9298e/68b6e160b02d28684fc92b09_aerg.png)
+
+Audit logs retained for 1+ year
+
+![](https://cdn.prod.website-files.com/68b6e15fb02d28684fc9298e/68b6e160b02d28684fc92b09_aerg.png)
+
+Contractual uptime guarantee
+
+![](https://cdn.prod.website-files.com/68b6e15fb02d28684fc9298e/68b6e160b02d28684fc92b09_aerg.png)
+
+Custom SLA
+
+![](https://cdn.prod.website-files.com/68b6e15fb02d28684fc9298e/68b6e160b02d28684fc92b09_aerg.png)
+
+Premium support
+
+## Compare All Features
+
+Find the perfect plan with the features you need for your team and projects.
+
+Cloud
+
+Free
+
+Team
+
+Enterprise
+
+Compute (Run containers or VMs)
+
+Deploy and run your applications using containers or virtual machines
+
+Pay-as-you-go
+
+Pay-as-you-go
+
+Pay-as-you-go
+
+Data (managed databases & object storage)
+
+Store data in fully managed SQL/NoSQL databases or object storage
+
+Pay-as-you-go
+
+Pay-as-you-go
+
+Pay-as-you-go
+
+Edge (low-latency edge network)
+
+Deploy to a global edge network for faster content delivery
+
+![cross](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b849afd822cb164a4ebe1a_cancel_24dp_717171_FILL1_wght300_GRAD0_opsz24%20(1).svg)
+
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)
+
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)
+
+Observability & Telemetry
+
+Free
+
+Team
+
+Enterprise
+
+Runtime Logs & Retention
+
+View container/app logs with extended storage periods
+
+1 day
+
+30 days
+
+Custom
+
+Uptime
+
+Monitor application health with automated alerts
+
+![cross](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b849afd822cb164a4ebe1a_cancel_24dp_717171_FILL1_wght300_GRAD0_opsz24%20(1).svg)
+
+Advanced
+
+Enterprise
+
+Metrics
+
+Track throughput, latency, CPU/memory usage, and more
+
+Basic
+
+Advanced
+
+Enterprise
+
+Filtering of Logs
+
+Search and slice logs by customizable fields and tags
+
+![cross](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b849afd822cb164a4ebe1a_cancel_24dp_717171_FILL1_wght300_GRAD0_opsz24%20(1).svg)
+
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)
+
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)
+
+Self-Heal
+
+Automatic restart and recovery when issues are detected
+
+![cross](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)
+
+![cross](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b849afd822cb164a4ebe1a_cancel_24dp_717171_FILL1_wght300_GRAD0_opsz24%20(1).svg)
+
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)
+
+Log Redirections
+
+Forward logs to external monitoring and analysis tools
+
+![cross](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b849afd822cb164a4ebe1a_cancel_24dp_717171_FILL1_wght300_GRAD0_opsz24%20(1).svg)
+
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)
+
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)
+
+Security
+
+Free
+
+Team
+
+Enterprise
+
+HTTPS / SSL
+
+Encrypt traffic with automatic SSL certificate management
+
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)
+
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)
+
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)
+
+DDoS Protection
+
+Protect against distributed denial-of-service attacks
+
+Basic
+
+Advanced
+
+Enterprise
+
+Web Application Firewall (WAF)
+
+Filter and monitor HTTP traffic to protect applications
+
+![cross](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b849afd822cb164a4ebe1a_cancel_24dp_717171_FILL1_wght300_GRAD0_opsz24%20(1).svg)
+
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)
+
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)
+
+Access Control (ACL)
+
+Define fine-grained access controls for your applications
+
+![cross](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b849afd822cb164a4ebe1a_cancel_24dp_717171_FILL1_wght300_GRAD0_opsz24%20(1).svg)
+
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)
+
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)
+
+Team Security & Permissions
+
+Manage team member access and permissions
+
+![cross](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b849afd822cb164a4ebe1a_cancel_24dp_717171_FILL1_wght300_GRAD0_opsz24%20(1).svg)
+
+Advanced
+
+Enterprise
+
+Two-Factor Authentication (2FA)
+
+Add an extra layer of security with 2FA
+
+![cross](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b849afd822cb164a4ebe1a_cancel_24dp_717171_FILL1_wght300_GRAD0_opsz24%20(1).svg)
+
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)
+
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)
+
+Activity & Audit Logs
+
+Track and review user actions and system events
+
+![cross](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b849afd822cb164a4ebe1a_cancel_24dp_717171_FILL1_wght300_GRAD0_opsz24%20(1).svg)
+
+90 days
+
+1 year+
+
+Custom Security Headers
+
+Configure security-related HTTP response headers
+
+![cross](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b849afd822cb164a4ebe1a_cancel_24dp_717171_FILL1_wght300_GRAD0_opsz24%20(1).svg)
+
+![cross](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b849afd822cb164a4ebe1a_cancel_24dp_717171_FILL1_wght300_GRAD0_opsz24%20(1).svg)
+
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)
+
+SAML SSO
+
+Enterprise authentication with SAML single sign-on
+
+![cross](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b849afd822cb164a4ebe1a_cancel_24dp_717171_FILL1_wght300_GRAD0_opsz24%20(1).svg)
+
+![cross](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b849afd822cb164a4ebe1a_cancel_24dp_717171_FILL1_wght300_GRAD0_opsz24%20(1).svg)
+
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)
+
+SCIM Provisioning
+
+Automated user provisioning and management
+
+![cross](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b849afd822cb164a4ebe1a_cancel_24dp_717171_FILL1_wght300_GRAD0_opsz24%20(1).svg)
+
+![cross](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b849afd822cb164a4ebe1a_cancel_24dp_717171_FILL1_wght300_GRAD0_opsz24%20(1).svg)
+
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)
+
+Build & Scale
+
+Free
+
+Team
+
+Enterprise
+
+Team Seats
+
+Number of developers with advanced tooling access
+
+Unlimited
+
+Unlimited
+
+Unlimited
+
+Automated CI/CD
+
+Automatically build and deploy code upon commit
+
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)
+
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)
+
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)
+
+Preview Environments
+
+Create ephemeral environments for pull request reviews
+
+1
+
+2
+
+Custom
+
+Concurrent & Enhanced Builds
+
+Run multiple build processes in parallel for speed
+
+1 instance (2 vCPU)
+
+1 instance (4 vCPU)
+
+Custom
+
+Automated Tests
+
+Run tests automatically on every commit
+
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)
+
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)
+
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)
+
+Build Rollback History
+
+Easily revert to previous working versions
+
+3 deployments
+
+30 deployments
+
+90+ deployments
+
+Support
+
+Free
+
+Team
+
+Enterprise
+
+Community Support
+
+Access to community forums and documentation
+
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)
+
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)
+
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)
+
+Email Support
+
+Get help via email from our support team
+
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b849afd822cb164a4ebe1a_cancel_24dp_717171_FILL1_wght300_GRAD0_opsz24%20(1).svg)
+
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)
+
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)
+
+Chat Support
+
+Real-time assistance through our chat system
+
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b849afd822cb164a4ebe1a_cancel_24dp_717171_FILL1_wght300_GRAD0_opsz24%20(1).svg)
+
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)
+
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)
+
+Priority Support
+
+Faster response times and prioritized assistance
+
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b849afd822cb164a4ebe1a_cancel_24dp_717171_FILL1_wght300_GRAD0_opsz24%20(1).svg)
+
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)
+
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)
+
+Dedicated Support
+
+Assigned dedicated team for your account
+
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b849afd822cb164a4ebe1a_cancel_24dp_717171_FILL1_wght300_GRAD0_opsz24%20(1).svg)
+
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b849afd822cb164a4ebe1a_cancel_24dp_717171_FILL1_wght300_GRAD0_opsz24%20(1).svg)
+
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)
+
+Support SLA
+
+Guaranteed response times via service level agreement
+
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b849afd822cb164a4ebe1a_cancel_24dp_717171_FILL1_wght300_GRAD0_opsz24%20(1).svg)
+
+Business Hours
+
+24/7/365
+
+Onboarding Assistance
+
+Personalized help getting started with our platform
+
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b849afd822cb164a4ebe1a_cancel_24dp_717171_FILL1_wght300_GRAD0_opsz24%20(1).svg)
+
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)
+
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)
+
+Free
+
+Team
+
+Enterprise
+
+[Get Started\\
+![](https://cdn.prod.website-files.com/68b6e15fb02d28684fc9298e/68b6e160b02d28684fc92b7f_arrow_forward%20(1).svg)](https://console.revolte.ai/auth/signup)
+
+Cloud
+
+Compute (run containers or VMs)
+
+Deploy and run your applications using containers or virtual machines
+
+Pay-as-you-go
+
+Pay-as-you-go
+
+Pay-as-you-go
+
+Data (managed databases & object storage)
+
+Store data in fully managed SQL/NoSQL databases or object storage
+
+Pay-as-you-go
+
+Pay-as-you-go
+
+Pay-as-you-go
+
+Edge (low-latency edge network)
+
+Deploy to a global edge network for faster content delivery
+
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df50_ytpng.png)![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)
+
+Observability & Telemetry
+
+Runtime Logs & Retention
+
+View container/app logs with extended storage periods
+
+1 day
+
+30 days
+
+Custom
+
+Uptime
+
+Monitor application health with automated alerts
+
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df50_ytpng.png)
+
+Advanced
+
+Enterprise
+
+Metrics
+
+Track throughput, latency, CPU/memory usage, and more
+
+Basic
+
+Advanced
+
+Enterprise
+
+Filtering of Logs
+
+Search and slice logs by customizable fields and tags
+
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df50_ytpng.png)![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)
+
+Self-Heal
+
+Automatic restart and recovery when issues are detected
+
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df50_ytpng.png)![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df50_ytpng.png)![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)
+
+Log Redirections
+
+Forward logs to external monitoring and analysis tools
+
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df50_ytpng.png)![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)
+
+Security
+
+HTTPS / SSL
+
+Encrypt traffic with automatic SSL certificate management
+
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)
+
+DDoS Protection
+
+Protect against distributed denial-of-service attacks
+
+Basic
+
+Advanced
+
+Enterprise
+
+Web Application Firewall (WAF)
+
+Filter and monitor HTTP traffic to protect applications
+
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df50_ytpng.png)![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)
+
+Access Control (ACL)
+
+Define fine-grained access controls for your applications
+
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df50_ytpng.png)![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)
+
+Team Security & Permissions
+
+Manage team member access and permissions
+
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df50_ytpng.png)
+
+Advanced
+
+Enterprise
+
+Two-Factor Authentication (2FA)
+
+Add an extra layer of security with 2FA
+
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df50_ytpng.png)![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)
+
+Activity & Audit Logs
+
+Track and review user actions and system events
+
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df50_ytpng.png)
+
+90 days
+
+1year+
+
+Custom Security Headers
+
+Configure security-related HTTP response headers
+
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df50_ytpng.png)![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)
+
+SAML SSO
+
+Enterprise authentication with SAML single sign-on
+
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df50_ytpng.png)![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)
+
+SCIM Provisioning
+
+Automated user provisioning and management
+
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df50_ytpng.png)![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)
+
+Build & Scale
+
+Team Seats
+
+Number of developers with advanced tooling access
+
+Unlimited
+
+Unlimited
+
+Unlimited
+
+Automated CI/CD
+
+Automatically build and deploy code upon commit
+
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)
+
+Preview Environments
+
+Create ephemeral environments for pull request reviews
+
+1
+
+2
+
+Custom
+
+Concurrent & Enhanced Builds
+
+Run multiple build processes in parallel for speed
+
+1 instance (2 vCPU)
+
+1 instance (4 vCPU)
+
+Custom
+
+Automated Tests
+
+Run tests automatically on every commit
+
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)
+
+Build Rollback History
+
+Easily revert to previous working versions
+
+3 deployments
+
+30 deployments
+
+90+ deployments
+
+Support
+
+Community Support
+
+Access to community forums and documentation
+
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)
+
+Email Support
+
+Get help via email from our support team
+
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df50_ytpng.png)![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)
+
+Chat Support
+
+Real-time assistance through our chat system
+
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df50_ytpng.png)![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)
+
+Priority Support
+
+Faster response times and prioritized assistance
+
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df50_ytpng.png)![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)
+
+Dedicated Support
+
+Assigned dedicated team for your account
+
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df50_ytpng.png)![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df50_ytpng.png)![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)
+
+Support SLA
+
+Guaranteed response times via service level agreement
+
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df50_ytpng.png)
+
+Business Hours
+
+24/7/365
+
+Onboarding Assistance
+
+Personalized help getting started with our platform
+
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df50_ytpng.png)![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2df45_aerg.png)
+
+## Pay-as-you-go  Cloud Resources
+
+Only pay for the cloud resources you actually use. Scale up or down as needed with per-second billing.
+
+[![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b849afd822cb164a4ebe1e_compute.svg)\\
+\\
+Compute](https://revolte.ai/pricing#w-tabs-1-data-w-pane-0) [![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b849afd822cb164a4ebe1c_database.svg)\\
+\\
+Managed Database](https://revolte.ai/pricing#w-tabs-1-data-w-pane-1) [![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b849afd822cb164a4ebe1d_object.svg)\\
+\\
+Object Storage](https://revolte.ai/pricing#w-tabs-1-data-w-pane-2)
+
+**Instance Type**
+
+**CPU**
+
+**Memory**
+
+**Price/Hour**
+
+**Approx. Monthly**
+
+Starter Instance
+
+For static sites and small
+
+applications
+
+Shared CPU
+
+512 MB
+
+$0.00068
+
+$0.50
+
+Basic Instance
+
+For personal projects and APIs
+
+1 vCPU
+
+2 GB
+
+$0.0137
+
+$10
+
+Standard Instance
+
+For production applications
+
+2 vCPU
+
+4 GB
+
+$0.0274
+
+$20
+
+Performance Instance
+
+For production applications
+
+4 vCPU
+
+8 GB
+
+$0.0548
+
+$40
+
+Pro Instance
+
+For high-traffic applications
+
+8 vCPU
+
+16 GB
+
+$0.1096
+
+$80
+
+**Database Type**
+
+**Storage**
+
+**Connections**
+
+**Price/Hour**
+
+**Approx. Monthly**
+
+Starter DB
+
+For development and testing
+
+1 GB
+
+10
+
+$0.00068
+
+$5
+
+Basic DB
+
+For small production workloads
+
+10 GB
+
+50
+
+$0.0205
+
+$15
+
+Standard DB
+
+For medium-sized applications
+
+50 GB
+
+100
+
+$0.0411
+
+$30
+
+Performance DB
+
+For demanding database workloads
+
+100 GB
+
+200
+
+$0.0822
+
+$60
+
+Coming Soon
+
+‍
+
+**Tier**
+
+**Storage**
+
+**Bandwidth**
+
+**Storage Price**
+
+**Bandwidth Price**
+
+Starter DB
+
+For general purpose storage needs
+
+1 GB
+
+10
+
+$0.00/GB
+
+$0.00/GB
+
+Premium
+
+For frequently accessed data
+
+and higher performance
+
+10 GB
+
+50
+
+$0.00/GB
+
+$0.00/GB
+
+[Compute](https://revolte.ai/pricing#w-tabs-2-data-w-pane-0) [Manage Database](https://revolte.ai/pricing#w-tabs-2-data-w-pane-1) [Object Storage](https://revolte.ai/pricing#w-tabs-2-data-w-pane-2)
+
+[![revolte logo](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2dfa4_revolte%20logo.png)](https://revolte.ai/)
+
+[![linkedin](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68db90ec0d9db5077f8b7728_linkedin.svg)](https://www.linkedin.com/company/revolte-ai/)[![x](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68db90df23465e03c2af7897_twitter.svg)](https://x.com/Revolte_ai)[![instagram](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68db90f941b23f9fca909533_instagram.svg)](https://www.instagram.com/revolteai/)
+
+© 2025 Made by Poddle
+
+[Pricing](https://revolte.ai/pricing) [Blog](https://blog.revolte.ai/)
+
+[Contact](https://revolte.ai/contact) [Documentation](https://docs.revolte.ai/)
+
+[Terms of Service](https://revolte.ai/terms) [Privacy Policy](https://revolte.ai/privacy) [Cookies](https://revolte.ai/cookies)
+
+![line](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2dff7_Line%20181.svg)
+
+© 2025 Made by Poddle
+
+[![linkedin](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68db90ec0d9db5077f8b7728_linkedin.svg)](https://www.linkedin.com/company/revolte-ai/)[![x](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68db90df23465e03c2af7897_twitter.svg)](https://x.com/Revolte_ai)[![instagram](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68db90f941b23f9fca909533_instagram.svg)](https://www.instagram.com/revolteai/)
+
+![](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b842c16574c395d1c2e029_x.svg)
+
+## **One Unified Cloud Platform.** ‍  ‍ **Built for Speed,** ‍  ‍ **Loved by Developers.**
+
+Book a 1:1 demo with us to get started.
+
+Name \*
+
+Email \*
+
+Company Name \*
+
+Team Size \*
+
+Primary Use Case? \*
+
+![tick](https://cdn.prod.website-files.com/68b842c16574c395d1c2dddb/68b85f32e86b77fbc97c3e41_Frame%202085663465.svg)
+
+## Thanks for contacting us!
+
+We will reach out to you within 24hrs
+
+Oops! Something went wrong while submitting the form.
+
